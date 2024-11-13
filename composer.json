@@ -1,0 +1,16 @@
+{
+    "name": "user/car_lab",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hacer Mammedzade",
+            "email": "mammedzadehacer@gmail.com"
+        }
+    ],
+    "require": {}
+}
